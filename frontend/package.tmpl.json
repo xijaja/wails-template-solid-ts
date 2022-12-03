@@ -1,5 +1,5 @@
 {
-  "name": "vite-template-solid",
+  "name": "{{.ProjectName}}",
   "version": "0.0.0",
   "description": "",
   "scripts": {
@@ -17,4 +17,4 @@
   "dependencies": {
     "solid-js": "^1.5.1"
   }
-}
+,"author":"{{.AuthorName}}"}
