@@ -1,5 +1,6 @@
 # build
 build/bin
+.DS_Store
 
 # package
 node_modules
