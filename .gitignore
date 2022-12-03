@@ -1,0 +1,11 @@
+# build
+build/bin
+
+# package
+node_modules
+package-lock.json
+package.json.md5
+
+# dist
+frontend/dist/assets
+frontend/dist/index.html
