@@ -2,7 +2,15 @@
 
 ## About
 
-About your template
+Wails template which includes: Vite, Solid, TS out of the box.
+
+Build with Wails CLI v2.0.0.
+
+To use this template:
+
+```bash
+wails init -n my-wails-solid -t https://github.com/xijaja/wails-template-solid-ts
+```
 
 ## Live Development
 
