@@ -1,6 +1,6 @@
 <p align="left">
 <strong>English</strong> | 
-<a href="https://github.com/xijaja/wails-template-solid-ts/main/README_ZH.md">中文</a></p>
+<a href="https://github.com/xijaja/wails-template-solid-ts/blob/main/README_ZH.md">中文</a></p>
 <h1 align="center">wails-template-solid-ts</h1>
 
 <p align="center">Wails template which includes: Vite, Solid, TypeScript out of the box</p>
@@ -17,7 +17,7 @@ Run `wails dev` in the project directory to start it.
 
 If you want to debug in the browser, please enter the `frontend` directory in another terminal, and then execute `npm run dev`, the front-end development server will run on http://localhost:34115.
 
-## tailwind
+## Tailwindcss
 
 If you need to use tailwindcss and postcss, please enter the `frontend` directory,
 Then run the command:

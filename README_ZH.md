@@ -1,5 +1,5 @@
 <p align="left">
-<a href="https://github.com/xijaja/wails-template-solid-ts/main/README.md">English</a> | 
+<a href="https://github.com/xijaja/wails-template-solid-ts">English</a> | 
 <strong>中文</strong>
 </p>
 <h1 align="center">wails-template-solid-ts</h1>
@@ -18,7 +18,7 @@ wails init -n my-wails-solid -t https://github.com/xijaja/wails-template-solid-t
 
 如果你想在浏览器中调试，请在另一个终端进入 `frontend` 目录，然后执行 `npm run dev` ，前端开发服务器将在 http://localhost:34115 上运行。
 
-## tailwind
+## Tailwindcss
 
 如果你需要使用 tailwindcss 和 postcss ，请进入 `frontend` 目录，
 然后执行命令：
